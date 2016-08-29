@@ -7,7 +7,7 @@ The past week I have been working on another [Bloc](https://www.bloc.io/software
 
 To date, this was the most difficult project I've worked on, but with greater difficulty comes more failures and more lessons learned. I feel my capabilities were stretched and some skills were honed in on. The biggest takeaways from this project is a better ability to read and debug coding errors. I really had to trust and use error messages to uncover many issues. When error messages didn't seem to help out, I learned how to "bread crumb" debug by using `puts hello`. This debugging approach literally allowed me to follow bread crumbs and find exactly at which part of my code was broken. The ultimately lead me to solve an issue I was trying to resolve for 3 days. Good skill to learn. You can see a code snippet below of how I used `puts` to debug:
 
-{% highlight ruby %}
+```ruby
 def create
   registered_application = RegisteredApplication.find_by(url: request.env['HTTP_ORIGIN'])
 p 'hello'
@@ -23,7 +23,8 @@ p 'hello'
       end
     end
   end
-  {% endhighlight ruby %}
-
+```
 
   I've also included a brief video below that runs through Blocmetrics. Check it out and let me know what you think.
+
+  <iframe width="420" height="315" src="https://youtu.be/Gjd3QbME2-E" frameborder="0" allowfullscreen></iframe>
