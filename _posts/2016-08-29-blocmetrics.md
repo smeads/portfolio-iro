@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blocmetrics: API Tracking Service and Reporting
+title: Blocmetrics _API Tracking Service and Reporting_
 ---
 
 The past week I have been working on another [Bloc](https://www.bloc.io/software-developer-track) project called Blocmetrics. Blocmetrics is to serve as an API tracking service for reporting purposes. Specifically, it's an analytics service and reporting tool that you can use with web apps to track user activity. If your interested in viewing the GitHub Repository feel free to [click here](https://github.com/smeads/Blocmetrics).
