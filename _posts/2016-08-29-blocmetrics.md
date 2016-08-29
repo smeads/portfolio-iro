@@ -27,4 +27,4 @@ p 'hello'
 
   I've also included a brief video below that runs through Blocmetrics. Check it out and let me know what you think.
 
-  <iframe width="420" height="315" src="https://youtu.be/Gjd3QbME2-E" frameborder="0" allowfullscreen></iframe>
+  <iframe width="420" height="315" src="https://www.youtube.com/embed/Gjd3QbME2-E" frameborder="0" allowfullscreen></iframe>
