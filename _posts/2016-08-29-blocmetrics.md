@@ -26,7 +26,3 @@ p 'hello'
   ```
 
   I've also included a brief video below that runs through Blocmetrics. Check it out and let me know what you think.
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=youtu.be/Gjd3QbME2-E
-" target="_blank"><img src="http://img.youtube.com/vi/youtu.be/Gjd3QbME2-E.jpg"
-alt="Blocmetrics" width="240" height="180" border="10" /></a>
