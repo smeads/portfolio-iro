@@ -2,15 +2,17 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "img/sample_feature_img_2.png"
+feature-img: "img/banner2.png"
 ---
 
 Hi! I'm Steve and thanks for visiting the About page.
 
-I'm currently enrolled in an online [Software Engineering](https://www.bloc.io/software-developer-track) program through [Bloc.io](https://www.bloc.io/about). I have no prior programming experience, and would not consider myself to be technologically sophisticated one iota. However, I'm on a fast track to change that, and I mean fast.
+I'm currently enrolled in an online [Software Engineering](https://www.bloc.io/software-developer-track) program through [Bloc](https://www.bloc.io/about). The program focus is computer science and full-stack web development.
 
-This website is a place for me to showcase my portfolio, current projects, and anything else I want to share with others. My hope is it will also provide to be a source of inspiration for anyone interested or currently in related fields.
+I've developed a strong foundation in backend programming, specifically object oriented programming with Ruby on Rails,  MVC architecture, Test Driven Development, and more. I'm currently developing frontend programming skills with frameworks and tools such as, JavaScript, HTML, CSS. The later portion of the program will cover computer science principles: data structures, algorithms and complexity analysis, databases and advanced SQL, and framework architecture and design patterns.
 
-Aside from all that, I'm happily married with a wild and crazy one year old. If I'm not sitting in front of a computer trying to figure out some broken code or mind blowing programming concept, I'm usually outside running, surfing, biking, climbing, or chilling with my fam.
+This website is a place for me to showcase my progress, current projects, completed projects, and anything else I feel is important to share. My hope is that it will also provide to be a source of inspiration for anyone interested or currently in related fields.
 
-Hope you enjoy and happy hacking!
+Most importantly, I'm happily married with a wild and crazy one year old. If I'm not sitting in front of a computer hacking the planet, or getting my mind blown away by some new programming concept, I'm usually outside running, surfing, biking, climbing, or chilling with my family.
+
+Hope you enjoy!

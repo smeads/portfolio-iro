@@ -2,10 +2,10 @@
 layout: page
 title: Contact
 permalink: /contact/
-feature-img: "img/surf.png"
+feature-img: "img/banner3.png"
 ---
 
-If you have any desire to contact me please don't hesitate to do so. I'll be sure to respond as soon as I can.
+If want to contact me please don't hesitate. I'll be sure to respond as soon as I can.
 
 Thanks!
 

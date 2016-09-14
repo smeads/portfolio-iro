@@ -5,14 +5,13 @@ url: "http://stevenmeads.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Steve Meads
-  avatar: avatar.png
-  gravatar: "sbmeads@gmail.com"
+  title: Home
   description: "A website with blog posts and pages" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Software Engineer in Training</h1>
+    <h1>Steven Meads Portfolio</h1>
+    <h3><i>Software Engineer</i></h3>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
