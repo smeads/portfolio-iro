@@ -2,7 +2,7 @@
 layout: post
 title: Blocmetrics
 feature-img: "img/sample_feature_img.png"
-thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/2030966/blocjams_1x.png"
+thumbnail-path: "img/blocmetrics.png"
 short-description: API Tracking Service & Reporting
 
 ---

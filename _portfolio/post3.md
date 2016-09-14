@@ -2,7 +2,7 @@
 layout: post
 title: Blocipedia
 feature-img: "img/sample_feature_img.png"
-thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/2030966/blocjams_1x.png"
+thumbnail-path: "img/blocipedia.png"
 short-description: SaaS Wiki Collaboration Tool
 
 ---

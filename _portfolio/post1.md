@@ -2,7 +2,7 @@
 layout: post
 title: Bloc Capstone Project
 feature-img: "img/sample_feature_img.png"
-thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/2030966/blocjams_1x.png"
+thumbnail-path: "img/jmb.png"
 short-description: Jann Marie Bridal On Boarding
 
 ---
