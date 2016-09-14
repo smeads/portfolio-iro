@@ -2,8 +2,6 @@
 
 ## Personal Portfolio
 
-Hi! I'm Steve and thanks for visiting the About page.
-
 I'm currently enrolled in an online [Software Engineering](https://www.bloc.io/software-developer-track) program through [Bloc](https://www.bloc.io/about). The program focus is computer science and full-stack web development.
 
 I've developed a strong foundation in backend programming, specifically object oriented programming with Ruby on Rails,  MVC architecture, Test Driven Development, and more. I'm currently developing frontend programming skills with frameworks and tools such as, JavaScript, HTML, CSS. The later portion of the program will cover computer science principles: data structures, algorithms and complexity analysis, databases and advanced SQL, and framework architecture and design patterns.
