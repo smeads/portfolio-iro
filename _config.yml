@@ -37,7 +37,7 @@ theme_settings:
   tumblr:
   twitter: "sbmeads"
   wordpress:
-  youtube:
+  youtube: "https://www.youtube.com/channel/UCFQ-XJJCqbO6VBSHjfGhmZg"
 
   # Scripts
   google_analytics: "UA-81867895-1"
