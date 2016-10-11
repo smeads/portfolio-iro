@@ -5,7 +5,7 @@ permalink: /contact/
 feature-img: "img/banner3.png"
 ---
 
-If want to contact me please don't hesitate. I'll be sure to respond as soon as I can.
+If you want to contact me please do. I'll be sure to respond as soon as I can.
 
 Thanks!
 

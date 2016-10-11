@@ -6,7 +6,7 @@ thumbnail-path: "img/blocmetrics.png"
 short-description: API Tracking Service & Reporting
 
 ---
-#### Blocmetrics is a:
+## Blocmetrics
 
 * Client-side JavaScript snippet that allows a user to track events on their website.
 * Server-side API that captures and saves those events to a database.
@@ -14,14 +14,14 @@ short-description: API Tracking Service & Reporting
 
 ### Application Features
 
-#### User Story:
+#### User Story
   * A user can sign up for a free account by providing a name, password and email.
   * A user can sign in and out of Blocmetrics.
   * A user can register an application for tracking.
   * A user can associate events with a registered application.
   * A user can see a graph of events for each registered application.
 
-#### Authentication with Devise:
+#### Authentication with Devise
 Blocmetrics incorporates [Devise](https://github.com/plataformatec/devise) for user authentication. The authentication system allows users to sign up and sends emails for account confirmation. Users can sign in and out of Blocmetrics.
 
 #### CORS
